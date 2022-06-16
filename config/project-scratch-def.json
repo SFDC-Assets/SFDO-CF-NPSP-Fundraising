@@ -1,9 +1,9 @@
 {
   "orgName": "SFDO Campfire",
-  "adminEmail": "sfdocampfires@salesforce.com",
+  "adminEmail": "sforgsolutiondevelopers@salesforce.com",
   "description": "SFDO Campfire",
   "features": ["EnableSetPasswordInApi","CMSUnlimitedUse"],
-  "template": "0TT4W000006engL",
+  "template": "0TT4W000006engQ",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
