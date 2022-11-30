@@ -1,6 +1,6 @@
 {
   "orgName": "SFDO Campfire",
-  "adminEmail": "sforgsolutiondevelopers@salesforce.com",
+  "adminEmail": "sfdocampfires@salesforce.com",
   "description": "SFDO Campfire",
   "features": ["EnableSetPasswordInApi","CMSUnlimitedUse"],
   "template": "0TT4W000006engQ",
