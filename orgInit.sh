@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 3 -s -w 60
-sfdx force:source:push
-sfdx force:user:password:generate
-sfdx force:org:open -p /lightning/page/home
+sf demoutil org create scratch -f config/project-scratch-def.json -d 5 -s -p SFDO -e NPSP.fundraising
+sf project deploy start
+sf demoutil user password set -p salesforce1 -g User -l User
+sf org open -p /lightning/page/home
